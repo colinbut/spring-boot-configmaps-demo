@@ -175,7 +175,7 @@ the application
 
 In <<configmap-as-env-vars>> we saw how Kubernetes https://kubernetes.io/docs/tasks/configure-pod-container/configmap/[ConfigMaps] can
 be injected to the Kubernetes deployment as environment variables.  In this section we will see how we can mount
-Spring Boot `application.yaml` using https://kubernetes.io/docs/tasks/configure-pod-container/configmap/[ConfigMaps].
+Spring Boot `application.properties` using https://kubernetes.io/docs/tasks/configure-pod-container/configmap/[ConfigMaps].
 
 
 [[app-properties]]
